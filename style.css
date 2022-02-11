@@ -1,0 +1,36 @@
+.Navbar_Container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  min-width: 100vh;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: 100%;
+}
+.Data_Content_Center {
+  display: flex;
+  flex-direction: row;
+  min-width: 100%;
+}
+.Search_Button {
+  width: 50%;
+  height: auto;
+}
+
+.Form_Select {
+  border: none;
+  background-color: #f8f9fa;
+  padding: auto;
+  margin: 0px 10px 0px 15px;
+  font-size: 22px;
+}
+.Form_Selected {
+  font-size: 22px;
+}
+
+.Login_Button {
+  width: 100px;
+}
